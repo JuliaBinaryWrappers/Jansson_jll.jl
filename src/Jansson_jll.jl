@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("Jansson")
-JLLWrappers.@generate_main_file("Jansson", UUID("83cbd138-b029-500a-bd82-26ec0fbaa0df"))
+JLLWrappers.@generate_main_file("Jansson", Base.UUID("83cbd138-b029-500a-bd82-26ec0fbaa0df"))
 end  # module Jansson_jll

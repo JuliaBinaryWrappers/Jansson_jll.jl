@@ -1,151 +1,160 @@
 [[Jansson]]
 arch = "aarch64"
-git-tree-sha1 = "62eff1062465c1245271e0cc64396b9ad864edd4"
+git-tree-sha1 = "bba241a54126d920d3e10ec75914dd3c93cb4e39"
 os = "macos"
 
     [[Jansson.download]]
-    sha256 = "96ce1c55d3801889999cac469387bdae2e1f53b857a32c2558ec61f9edc59fa2"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "1a7d2bc875f287c5070c7a9002de480eff707cacbc48975cf2cc681b82a9cbf7"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.aarch64-apple-darwin.tar.gz"
 [[Jansson]]
 arch = "aarch64"
-git-tree-sha1 = "b4db4885bcb6448def233a305a26a2e7a016691e"
+git-tree-sha1 = "9637300177f6cef64c90f873b16dfbbf2b5c2d89"
 libc = "glibc"
 os = "linux"
 
     [[Jansson.download]]
-    sha256 = "6f43f4cb648356aae623b44660ff5af83c2c11e2c2a61b55dfc78446a9b6cd51"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "57a4f04b9479a38756c29253bae4e240ba2e41e6c52ce57aedd772d92170c64d"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.aarch64-linux-gnu.tar.gz"
 [[Jansson]]
 arch = "aarch64"
-git-tree-sha1 = "8181a7ca37f0f1a56e2ae07b2f760e55af66c800"
+git-tree-sha1 = "bf472793cd91f50ae0a9168441f7b159102fe25e"
 libc = "musl"
 os = "linux"
 
     [[Jansson.download]]
-    sha256 = "e59bddd39e1f710d7a444508fb26165fa4570ea5f81ebcca79a2451843e13d18"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.aarch64-linux-musl.tar.gz"
+    sha256 = "fb08e1b7ba6ae8ed8a569cce96d4306ffc631df8f4d94cb4c4d43c614b291e14"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.aarch64-linux-musl.tar.gz"
 [[Jansson]]
 arch = "aarch64"
-git-tree-sha1 = "6db71ed56f76d2b78d38bfd873d978a3986f1ce2"
+git-tree-sha1 = "e0540d73da8a1510fe674b4c66e4f01effe6cb99"
 os = "freebsd"
 
     [[Jansson.download]]
-    sha256 = "24634c2b79d31702cefe9392ec967f641e3e5ca5fae1294337f7120f59a30cfd"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "38bc2acd115ae5b8a06109a75bc796b862915ef545c5132b70a96fc1dac177f6"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.aarch64-unknown-freebsd.tar.gz"
 [[Jansson]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "63c281a105a59630ba3f8274b69837e675a8d56d"
+git-tree-sha1 = "97a113109b14a261e5f35c777240ff9eef92d1a2"
 libc = "glibc"
 os = "linux"
 
     [[Jansson.download]]
-    sha256 = "44fe80c6f62fa4246b54fbf95a761b9756e707e3090a08dbd18840ff85cc0156"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "9a7d73195fc5696831eede137238d60cfddc623a924ad28d647e3dbc48f2b045"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.armv6l-linux-gnueabihf.tar.gz"
 [[Jansson]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "6e0a56ef07cd7dabbd9c489c981549df9f5e656e"
+git-tree-sha1 = "317294e72f1ea6ff655f7b66d9f0142a2661f37c"
 libc = "musl"
 os = "linux"
 
     [[Jansson.download]]
-    sha256 = "1a63c34a1598168ce65989178ecbae5f4ef8df1502e442d412ed0ab71c7ab37c"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "55747f9074b656a670f8fa4ff52a0169b11f43d9d891b27ddfa5eb636949d667"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.armv6l-linux-musleabihf.tar.gz"
 [[Jansson]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "b43ee3ae1350f5423b250e10660a3b99dcec38a4"
+git-tree-sha1 = "fd1974971235b503f508d988c9001cd82e41004f"
 libc = "glibc"
 os = "linux"
 
     [[Jansson.download]]
-    sha256 = "5c2252d4afd49025b5a95ec0c72e2e92a9c5a8287343748db16ce55d1436df5e"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "47ed5a48e221ed65c629a265356d0e0b2c9abca47207f437e28274c254ae4983"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.armv7l-linux-gnueabihf.tar.gz"
 [[Jansson]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "df595ba2a149b2897b0f748ce058e9756c07b9d6"
+git-tree-sha1 = "d2f80fdf3c8afea8c9168482d7163ce04c4c39da"
 libc = "musl"
 os = "linux"
 
     [[Jansson.download]]
-    sha256 = "5286c12591fb3b9fe466afe414adf328565293d62083b7efa0311bf11d7310a6"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "80b75768afea16cd67b7475bccc3e8eb51500e53791a07c77af56252b6dfed9c"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.armv7l-linux-musleabihf.tar.gz"
 [[Jansson]]
 arch = "i686"
-git-tree-sha1 = "48fca40f7af9d541eaef9828d3130444def6f37a"
+git-tree-sha1 = "7c756d7bdb833a9560e6955215b838e33ed07294"
 libc = "glibc"
 os = "linux"
 
     [[Jansson.download]]
-    sha256 = "733c71f82d4e7c01c7d4ab65897333d4825ae57bcc299c08fe16bea40602d6d2"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.i686-linux-gnu.tar.gz"
+    sha256 = "537698fb71ff6655e6bbb526ef13e6f12d60fc0c3f4bd9601062fa2ac31b1f4e"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.i686-linux-gnu.tar.gz"
 [[Jansson]]
 arch = "i686"
-git-tree-sha1 = "1ff6e40edbd2f56c1349f1a4702e0ea423d1917e"
+git-tree-sha1 = "bfd2e120e0d0e4e812c3c74830181a3b005f12d8"
 libc = "musl"
 os = "linux"
 
     [[Jansson.download]]
-    sha256 = "ca31fd7d0a77c884e720f648ed59bdf8dc5df210b57ecac3af9b087ca8d03952"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.i686-linux-musl.tar.gz"
+    sha256 = "f122d2b9281b8409270c43e64b6e413ab1e53454432a92aaa198350382cfbff3"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.i686-linux-musl.tar.gz"
 [[Jansson]]
 arch = "i686"
-git-tree-sha1 = "a54908641ac995fdf7d6ec6657b46c7335decc10"
+git-tree-sha1 = "9fb610a16b9af78244702b4d97cbfffa7ed6a9bc"
 os = "windows"
 
     [[Jansson.download]]
-    sha256 = "44f85623ce9d25cadcf1db45d0600102bb48a873b266174dbbd056d3bdb3b618"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.i686-w64-mingw32.tar.gz"
+    sha256 = "0aaf196e2396146531f8e84ccf4ce6fdcc8be5f5e5c6f3cdfba034df5da01886"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.i686-w64-mingw32.tar.gz"
 [[Jansson]]
 arch = "powerpc64le"
-git-tree-sha1 = "8e6ebd9c8dd4ba2d855e9b745a7c737656d2f056"
+git-tree-sha1 = "580b87764a26430dcf60dab47601466f34c8baa5"
 libc = "glibc"
 os = "linux"
 
     [[Jansson.download]]
-    sha256 = "cbf92f851c1fe24e6034cab27c76da70f0951f3ef7dd5f68f27402793e8a769d"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b30a675ae778d93e410a65a9e8c4f272f3392722f88cff3a72f0c0d47cacd7df"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.powerpc64le-linux-gnu.tar.gz"
+[[Jansson]]
+arch = "riscv64"
+git-tree-sha1 = "ffac1899f978437b7b3fcb720e574098c1a86d1a"
+libc = "glibc"
+os = "linux"
+
+    [[Jansson.download]]
+    sha256 = "b73c946034ebd55946bac992238837d2dfc92de85151b91c14530ac17518219e"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.riscv64-linux-gnu.tar.gz"
 [[Jansson]]
 arch = "x86_64"
-git-tree-sha1 = "ffefd8227ac7d4b510f376cc3e139a6267f4c016"
+git-tree-sha1 = "57eaa3fe044d2c241266c75e9d90705633c298f4"
 os = "macos"
 
     [[Jansson.download]]
-    sha256 = "0e82f00c0ccb473dd377c48f9b041122a25a05c6917d0f506721c8af3b6c1084"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "71ab3afdc51b4d49cb3fa6e73979d095d0dd7b4e167a6f62477eca7c7e432bc3"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.x86_64-apple-darwin.tar.gz"
 [[Jansson]]
 arch = "x86_64"
-git-tree-sha1 = "e154b693ac9291b6b1c918649aba6badcee96bd8"
+git-tree-sha1 = "5dae295ead963ac74d4df0103944e146d396a4fd"
 libc = "glibc"
 os = "linux"
 
     [[Jansson.download]]
-    sha256 = "7577b82a2e5d5f18f74102e49971ecd62ab313f4ca665907d7a61d8a175176b4"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "3fd0476051167ada1f0418c3311d95c9aa2d6efb62416882a2f16e7f205a1101"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.x86_64-linux-gnu.tar.gz"
 [[Jansson]]
 arch = "x86_64"
-git-tree-sha1 = "ba73998adeaf203b99224658b75d29951bcec716"
+git-tree-sha1 = "13a7edf65c73e6c9dbadd340f6b4f81f59740936"
 libc = "musl"
 os = "linux"
 
     [[Jansson.download]]
-    sha256 = "9272bf93da54ee06685ed45a9d01f61c5a8228a0c9c97204fc8ea4fb32cddb16"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.x86_64-linux-musl.tar.gz"
+    sha256 = "2614d65b3f701ffa2ee6cb06e8bb81de4808643bb3954285d51bd014dc820351"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.x86_64-linux-musl.tar.gz"
 [[Jansson]]
 arch = "x86_64"
-git-tree-sha1 = "605101c8ab456c91839fd408b2887bec32c0443b"
+git-tree-sha1 = "324a3acfb7ba71b1e508118dcca25ea3566427db"
 os = "freebsd"
 
     [[Jansson.download]]
-    sha256 = "d7c4ab41a91d71ef6597b672430bc87fc8bdf8ab2735a08f2244e4195beb5cdd"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "4d1d5ac9189ce48b85772c491f5f54f6633012272ad268d2dfe34354bb1d9fc0"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.x86_64-unknown-freebsd.tar.gz"
 [[Jansson]]
 arch = "x86_64"
-git-tree-sha1 = "a80a8add52dcb2142892eda8b4179ee9f0ebef8f"
+git-tree-sha1 = "45f21f9b2ac3f9451a7c8f133b9de85438b3011a"
 os = "windows"
 
     [[Jansson.download]]
-    sha256 = "2cf7b1b0092fb5ae9a7a9b4a44a7f56bd638e31d2a689f3f0a956d7296115b6a"
-    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.0+1/Jansson.v2.14.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "f36a17f4418ba7beaf97e481e489b68d06173f0f5b8010862a80f1225df388e0"
+    url = "https://github.com/JuliaBinaryWrappers/Jansson_jll.jl/releases/download/Jansson-v2.14.1+0/Jansson.v2.14.1.x86_64-w64-mingw32.tar.gz"
